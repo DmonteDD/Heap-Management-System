@@ -1,0 +1,19 @@
+a 0 10 
+a 1 5
+a 2 11
+f 1
+a 3 2
+f 3
+e
+failed at line 3List is empty!
+List is empty!
+
+heap_size = 15 live = 2 used = 0% nodes = 1 avg size = 15
+failed at line 3List is empty!
+List is empty!
+
+heap_size = 15 live = 2 used = 0% nodes = 1 avg size = 15
+failed at line 3List is empty!
+List is empty!
+
+heap_size = 15 live = 2 used = 0% nodes = 1 avg size = 15
